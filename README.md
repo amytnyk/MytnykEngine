@@ -1,6 +1,5 @@
-
 # MytnykEngine
-Simple Engine
+Simple c++ engine
 
 Functions list:
 * GetScreenshot
@@ -8,7 +7,9 @@ Functions list:
 * MakeDirectory
 * MakeFile
 * Image class
-* iniParser class
+* IniParser class
 * XmlParser class
+* HideWindow
+* Timer class
 
 My Site : http://domatur.com
