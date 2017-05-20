@@ -11,4 +11,4 @@ Functions list:
 * iniParser class
 * XmlParser class
 
-My Site : http://domatur.com [link] (http://domatur.com)
+My Site : http://domatur.com
